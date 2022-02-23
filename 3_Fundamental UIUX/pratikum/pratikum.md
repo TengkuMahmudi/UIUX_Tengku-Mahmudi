@@ -3,7 +3,8 @@
 
 ####  1.	Aplikasi Shoope merupakan aplikasi marketplace online yang sudah diunduh atau digunakan oleh banyak orang diindonesia. Aplikasi ini banyak digemari karna kemudahan fitur serta banyak promo menarik didalamnya. Sayapun sebagai user pembeli sering berbelanja disini ketika ada voucher gratis ongkir dan promo menarik lainnya. Adapun user yang saya temukan pada aplikasi ini adalah sbb :
 * penjual , sudah jelas pasti ada penjual merupakan salah satu pengguna dari  sebuah aplikasi marketp
-* pembeli , kalau ada penjual pasti ada pembeli dong , kalau gak ada pembeli namanya gak terjual.* administrator,  orang yang membuat promo atau mengatur website tersebut
+* pembeli , kalau ada penjual pasti ada pembeli dong , kalau gak ada pembeli namanya gak terjual.
+* administrator,  orang yang membuat promo atau mengatur website tersebut
 * programmer , orang yang membuat aplikasi tersebut
 * management database, orang yang mengatur ,menyimpan dan menjaga  setiap data yang dilakukan oleh user.
 ![image](https://user-images.githubusercontent.com/99662592/154911760-ea942114-ab5c-43f1-9610-9cbcbabf39e7.png)
