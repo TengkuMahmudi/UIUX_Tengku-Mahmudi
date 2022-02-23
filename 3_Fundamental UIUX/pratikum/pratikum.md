@@ -27,7 +27,10 @@ Adapun user yang dapat saya temukan dari blog adalah :
 
 
 
+https://docs.google.com/document/d/1_XUu_VboDvbljYmbsbVBWGHJ-gMGOinzaNqOk9q9kF4/edit?usp=sharing
 
+
+[Tugas Pratikum day 3 Fundamental UIUX Tengku.docx](https://github.com/TengkuMahmudi/UIUX_Tengku-Mahmudi/files/8121835/Tugas.Pratikum.day.3.Fundamental.UIUX.Tengku.docx)
 
 
 
