@@ -1,5 +1,5 @@
-![Screenshot (1243)](https://user-images.githubusercontent.com/99662592/156874977-d772bbe1-f1ec-4765-80b6-af46477ec8f9.png)
+![Screenshot (1245)](https://user-images.githubusercontent.com/99662592/156886355-965e139b-5053-4f24-b4a1-132a13f0ae4a.png)
 
 ---
-link figma : hhttps://www.figma.com/file/xJpOwXNlh0yNBTsP1vudzN/Pratikum-Section-6%267?node-id=0%3A1
+link figma : https://www.figma.com/file/xJpOwXNlh0yNBTsP1vudzN/Pratikum-Section-6%267?node-id=104%3A1338
 
